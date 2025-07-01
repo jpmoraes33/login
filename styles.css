@@ -1,4 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(12, 119, 101);
+    background-image: linear-gradient(45dey, cyan, yellow);
+}
+div{
+    background-color: rgb(15, 109, 106);
 }
